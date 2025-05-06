@@ -1,4 +1,4 @@
-#include "SceneGenerator.h"
+﻿#include "SceneGenerator.h"
 #include <cmath>
 
 #ifndef M_PI
